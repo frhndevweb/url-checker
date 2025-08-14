@@ -1,0 +1,11 @@
+URL,Status,Redirect,Time (ms)
+https://frhndevweb.my.id,200,,1153
+http://shopee.co.id,200,https://shopee.co.id/,694
+https://frhndevweb.my.id,200,,1175
+https://shopee.co.id,200,,526
+https://frhndevweb.my.id/path83,404,,1135
+http://shopee.co.id/path58,200,https://shopee.co.id/path58,681
+https://frhndevweb.my.id/path8,525,,1007
+https://shopee.co.id,200,,482
+https://frhndevweb.my.id,525,,1010
+https://shopee.co.id,200,,429

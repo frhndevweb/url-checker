@@ -1,0 +1,16 @@
+URL,Status,Redirect,Time (ms)
+https://doesnotexist.tld/path43,ERR,,232
+https://example.com,200,,1238
+https://myweb404.io,ERR,,47
+https://doesnotexist.tld,ERR,,43
+https://youtube.com/path33,404,https://www.youtube.com/path33,2379
+http://myweb404.io,ERR,,78
+https://netlify.app,200,https://www.netlify.com/,345
+https://myweb404.io,ERR,,58
+http://myweb404.io,ERR,,48
+http://myweb404.io/path37,ERR,,41
+https://youtube.com/path93,404,https://www.youtube.com/path93,1222
+https://doesnotexist.tld/path43,ERR,,49
+https://myweb404.io/path49,ERR,,44
+https://netlify.app/path39,404,https://www.netlify.com/path39,952
+https://myweb404.io/path58,ERR,,31

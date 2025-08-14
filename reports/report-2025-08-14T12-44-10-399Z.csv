@@ -1,0 +1,11 @@
+URL,Status,Redirect,Time (ms)
+http://frhndevweb.my.id/path2,404,https://frhndevweb.my.id/path2,1462
+http://frhndevweb.my.id,525,https://frhndevweb.my.id/,1276
+http://frhndevweb.my.id,200,https://frhndevweb.my.id/,1547
+https://frhndevweb.my.id/path59,404,,1217
+http://frhndevweb.my.id,200,https://frhndevweb.my.id/,1237
+https://frhndevweb.my.id/path9,525,,1155
+http://frhndevweb.my.id/path90,525,https://frhndevweb.my.id/path90,1064
+https://frhndevweb.my.id,200,,1408
+http://frhndevweb.my.id/path52,404,https://frhndevweb.my.id/path52,1105
+https://frhndevweb.my.id/path12,404,,1158

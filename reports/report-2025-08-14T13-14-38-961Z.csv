@@ -1,0 +1,11 @@
+URL,Time (ms),Status,Redirect
+https://github.com/path63,728,404,
+https://microsoft.com/path1,870,404,https://www.microsoft.com/path1
+http://shopee.co.id/path2,903,200,https://shopee.co.id/path2
+https://google.com/path77,1481,404,
+http://google.com,1100,200,http://www.google.com/
+https://google.com/path55,379,404,
+https://frhndevweb.my.id/path44,1115,404,
+http://microsoft.com,1063,200,https://www.microsoft.com/id-id/
+https://microsoft.com,743,200,https://www.microsoft.com/id-id/
+http://microsoft.com/path72,855,404,https://www.microsoft.com/path72

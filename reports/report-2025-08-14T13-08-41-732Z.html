@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>URL Check Report</title>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: 8px; }
+    th { background-color: #f4f4f4; }
+    .ok { color: green; }
+    .err { color: red; }
+  </style>
+</head>
+<body>
+  <h2>URL Check Report</h2>
+  <table>
+    <thead>
+      <tr><th>URL</th><th>Time (ms)</th><th>Status</th><th>Redirect</th></tr>
+    </thead>
+    <tbody>
+      
+        <tr>
+          <td>https://shopee.co.id/path67</td>
+          <td>421</td>
+          <td class="ok">200</td>
+          <td></td>
+        </tr>
+      
+        <tr>
+          <td>https://shopee.co.id</td>
+          <td>184</td>
+          <td class="ok">200</td>
+          <td>https://shopee.co.id/</td>
+        </tr>
+      
+        <tr>
+          <td>http://shopee.co.id/path66</td>
+          <td>146</td>
+          <td class="ok">200</td>
+          <td>https://shopee.co.id/path66</td>
+        </tr>
+      
+        <tr>
+          <td>http://frhndevweb.my.id</td>
+          <td>1189</td>
+          <td class="err">525</td>
+          <td>https://frhndevweb.my.id/</td>
+        </tr>
+      
+        <tr>
+          <td>http://microsoft.com</td>
+          <td>1085</td>
+          <td class="ok">200</td>
+          <td>https://www.microsoft.com/id-id/</td>
+        </tr>
+      
+        <tr>
+          <td>https://github.com/path7</td>
+          <td>607</td>
+          <td class="ok">200</td>
+          <td></td>
+        </tr>
+      
+        <tr>
+          <td>http://microsoft.com</td>
+          <td>686</td>
+          <td class="ok">200</td>
+          <td>https://www.microsoft.com/id-id/</td>
+        </tr>
+      
+        <tr>
+          <td>http://microsoft.com</td>
+          <td>885</td>
+          <td class="ok">200</td>
+          <td>https://www.microsoft.com/id-id/</td>
+        </tr>
+      
+        <tr>
+          <td>http://microsoft.com/path96</td>
+          <td>695</td>
+          <td class="err">404</td>
+          <td>https://www.microsoft.com/path96</td>
+        </tr>
+      
+        <tr>
+          <td>http://microsoft.com</td>
+          <td>717</td>
+          <td class="ok">200</td>
+          <td>https://www.microsoft.com/id-id/</td>
+        </tr>
+      
+    </tbody>
+  </table>
+</body>
+</html>

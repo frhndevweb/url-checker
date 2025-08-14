@@ -1,0 +1,11 @@
+URL,Time (ms),Status,Redirect
+https://shopee.co.id/path67,421,200,
+https://shopee.co.id,184,200,https://shopee.co.id/
+http://shopee.co.id/path66,146,200,https://shopee.co.id/path66
+http://frhndevweb.my.id,1189,525,https://frhndevweb.my.id/
+http://microsoft.com,1085,200,https://www.microsoft.com/id-id/
+https://github.com/path7,607,200,
+http://microsoft.com,686,200,https://www.microsoft.com/id-id/
+http://microsoft.com,885,200,https://www.microsoft.com/id-id/
+http://microsoft.com/path96,695,404,https://www.microsoft.com/path96
+http://microsoft.com,717,200,https://www.microsoft.com/id-id/
